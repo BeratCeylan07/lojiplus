@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/obj/Debug/net7.0/scopedcss/projectbundle/logistik.bundle.scp.css",
+      "PackagePath": "staticwebassets/logistik.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/LICENSE.txt",
+      "PackagePath": "staticwebassets/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/about.jpg",
+      "PackagePath": "staticwebassets/img/about.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/carousel-1.jpg",
+      "PackagePath": "staticwebassets/img/carousel-1.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/carousel-2.jpg",
+      "PackagePath": "staticwebassets/img/carousel-2.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/feature.jpg",
+      "PackagePath": "staticwebassets/img/feature.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/h1.jpg",
+      "PackagePath": "staticwebassets/img/h1.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/h2.png",
+      "PackagePath": "staticwebassets/img/h2.png"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/h3.jpeg",
+      "PackagePath": "staticwebassets/img/h3.jpeg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/map.png",
+      "PackagePath": "staticwebassets/img/map.png"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/service-1.jpg",
+      "PackagePath": "staticwebassets/img/service-1.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/service-2.jpg",
+      "PackagePath": "staticwebassets/img/service-2.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/service-3.jpg",
+      "PackagePath": "staticwebassets/img/service-3.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/service-4.jpg",
+      "PackagePath": "staticwebassets/img/service-4.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/service-5.jpg",
+      "PackagePath": "staticwebassets/img/service-5.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/service-6.jpg",
+      "PackagePath": "staticwebassets/img/service-6.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/team-4.jpg",
+      "PackagePath": "staticwebassets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/img/testimonial-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-4.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/animate/animate.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/animate/animate.min.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.min.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/counterup/counterup.min.js",
+      "PackagePath": "staticwebassets/lib/counterup/counterup.min.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/waypoints/links.php",
+      "PackagePath": "staticwebassets/lib/waypoints/links.php"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/waypoints/waypoints.min.js",
+      "PackagePath": "staticwebassets/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/wow/wow.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/lib/wow/wow.min.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.min.js"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/NG İŞ1.png",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/NG İŞ1.png"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/NG İŞ2 copy.png",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/NG İŞ2 copy.png"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/anasayfa 2.jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/anasayfa 2.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/anasayfa alternatif.jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/anasayfa alternatif.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/anasayfa giriş.jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/anasayfa giriş.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/deniz yolu taş..jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/deniz yolu taş..jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/karayolu 2.jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/karayolu 2.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/sürekli gelişim anlayışı.jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/fotoğraflar/sürekli gelişim anlayışı.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/6d6ac9ba-1360-4c5e-a21c-29992f46acf4.jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/6d6ac9ba-1360-4c5e-a21c-29992f46acf4.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/909db719-49c0-4183-af0e-4631baaedf3c.jpg",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/909db719-49c0-4183-af0e-4631baaedf3c.jpg"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/logo.png",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/logo.png"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/loji son (1).ai",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/loji son (1).ai"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/loji son (1).pdf",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/logo/loji son (1).pdf"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/loji plus  entegre lojistik hizmetleri web sitesi 2/web sitesi yazıları/web sitesi (1).docx",
+      "PackagePath": "staticwebassets/loji plus  entegre lojistik hizmetleri web sitesi 2/web sitesi yazıları/web sitesi (1).docx"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_accordion.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_accordion.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_alert.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_badge.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_badge.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_button-group.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_card.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_card.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_carousel.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_close.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_close.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_containers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_containers.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_forms.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_functions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_functions.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_grid.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_helpers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_helpers.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_images.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_images.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_list-group.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_modal.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_modal.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_nav.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_nav.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_pagination.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_popover.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_popover.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_progress.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_progress.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_reboot.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_root.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_root.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_spinners.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_tables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_tables.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_toasts.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_transitions.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_type.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_type.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_utilities.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/_variables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/forms/_validation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/helpers/_position.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/utilities/_api.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/beratceylan/RiderProjects/logistik/logistik/wwwroot/scss/bootstrap/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.logistik.props",
+      "PackagePath": "build\\logistik.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.logistik.props",
+      "PackagePath": "buildMultiTargeting\\logistik.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.logistik.props",
+      "PackagePath": "buildTransitive\\logistik.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.logistik.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
